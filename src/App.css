@@ -129,6 +129,9 @@ nav {
   left: -150px;
   z-index: -2;
 }
+.about-img{
+  max-height: 14cm;
+}
 .about-section-image-container {
   flex: 0.9;
   margin-right: 1rem;

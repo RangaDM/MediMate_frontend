@@ -8,17 +8,17 @@ const Work = () => {
     {
       image: Save,
       title: "Users History",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+      text: "Securely store and access your medical records anytime, anywhere for a comprehensive view of your health journey.",
     },
     {
       image: Reminder,
       title: "Reminders",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      text: "Stay on top of your medications and appointments with timely alerts and notifications.",
     },
     {
       image: Monitorhis,
       title: "Monitorings",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+      text: "Track your symptoms and health metrics over time to gain valuable insights and trends for better health management.",
     },
   ];
   return (
@@ -27,8 +27,12 @@ const Work = () => {
         <p className="primary-subheading">Work</p>
         <h1 className="primary-heading">How It Works</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Getting started with Medimate is simple. Create an account and
+          securely add your medical history. Easily input your health
+          information, track symptoms, and manage your medications. View your
+          medical records at a glance and receive personalized health insights.
+          Medimate keeps you connected to your healthcare, making health
+          management a breeze.
         </p>
       </div>
       <div className="work-section-bottom">
